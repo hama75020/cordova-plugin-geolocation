@@ -99,7 +99,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <framework src="CoreLocation.framework" />
 
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-            <string>Your message is here</string>
+            <string>Nous utiliserons votre localisation pour afficher les lettres autour de vous</string>
         </config-file>
 
     </platform>
